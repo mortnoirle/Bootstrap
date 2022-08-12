@@ -1,0 +1,15 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+#mapwidght{
+
+}
+
+@media(min-width: 768px){
+.new-input{
+width: 50%;
+}
+}
